@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sridharvjk-collab/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sridharvjk-collab/leetcode/tree/master/0226-invert-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sridharvjk-collab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sridharvjk-collab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sridharvjk-collab/leetcode/tree/master/0147-insertion-sort-list) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sridharvjk-collab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
