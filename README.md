@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sridharvjk-collab/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sridharvjk-collab/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sridharvjk-collab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sridharvjk-collab/leetcode/tree/master/0147-insertion-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sridharvjk-collab/leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
