@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sridharvjk-collab/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/sridharvjk-collab/leetcode/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sridharvjk-collab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sridharvjk-collab/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sridharvjk-collab/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sridharvjk-collab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
