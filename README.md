@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sridharvjk-collab/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sridharvjk-collab/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sridharvjk-collab/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sridharvjk-collab/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/sridharvjk-collab/leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/sridharvjk-collab/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Geometry
