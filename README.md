@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sridharvjk-collab/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sridharvjk-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/sridharvjk-collab/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sridharvjk-collab/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -98,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sridharvjk-collab/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/sridharvjk-collab/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sridharvjk-collab/leetcode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sridharvjk-collab/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/sridharvjk-collab/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sridharvjk-collab/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/sridharvjk-collab/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -212,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sridharvjk-collab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
