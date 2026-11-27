@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sridharvjk-collab/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sridharvjk-collab/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/sridharvjk-collab/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sridharvjk-collab/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sridharvjk-collab/leetcode/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -171,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sridharvjk-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sridharvjk-collab/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sridharvjk-collab/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sridharvjk-collab/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sridharvjk-collab/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
