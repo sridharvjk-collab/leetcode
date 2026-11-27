@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sridharvjk-collab/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sridharvjk-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sridharvjk-collab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sridharvjk-collab/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sridharvjk-collab/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sridharvjk-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sridharvjk-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/sridharvjk-collab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/sridharvjk-collab/leetcode/tree/master/0724-find-pivot-index) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sridharvjk-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/sridharvjk-collab/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
